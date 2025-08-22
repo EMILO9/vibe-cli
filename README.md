@@ -1,6 +1,6 @@
 # Vibe CLI (Pre-release)
 
-Take control of your audio like never before! Vibe CLI lets you apply playback rate adjustments, equalizer settings, fade in/out, reverb, 8D effects, and more—all from the command line.
+Take control of your audio like never before! Vibe CLI lets you apply playback rate adjustments, equalizer settings, fade in/out, reverb, panning effects, and more—all from the command line.
 
 ## 🎵 Features:
 
