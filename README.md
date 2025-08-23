@@ -19,4 +19,4 @@ Take control of your audio like never before! Vibe CLI lets you apply playback r
 - Auto-generated output files for easy sorting
 
 ⚡ Get the pre-release:
-[Download Vibe CLI pre-release](https://github.com/EMILO9/vibe-cli/releases/tag/music)
+[Download Vibe CLI pre-release](https://github.com/EMILO9/vibe-cli/releases/tag/vibe-cli-pre-release)
