@@ -1,0 +1,17 @@
+{
+  "name": "vibe-cli",
+  "version": "1.0.0",
+  "scripts": {
+    "build:audio": "pkg src/audio.js --targets latest-win-x64 --output dist/audio.exe",
+    "build:video": "pkg src/video.js --targets latest-win-x64 --output dist/video.exe",
+    "build": "npm run build:audio && npm run build:video"
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^7.8.3",
+    "dayjs": "^1.11.13",
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}

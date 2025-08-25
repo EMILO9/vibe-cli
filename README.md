@@ -1,22 +1,21 @@
-# Vibe CLI (Pre-release)
-
-Take control of your audio like never before! Vibe CLI lets you apply playback rate adjustments, equalizer settings, fade in/out, reverb, panning effects, and more—all from the command line.
-
-## 🎵 Features:
-
-- Change playback speed
-
-- Resample audio to CD, Studio, or high-quality rates
-
-- Boost bass, mid, and treble
-
-- Add customizable reverb
-
-- Apply panning effects
-
-- Fade in/out seamlessly
-
-- Auto-generated output files for easy sorting
-
-⚡ Get the pre-release:
-[Download Vibe CLI pre-release](https://github.com/EMILO9/vibe-cli/releases/tag/vibe-cli-pre-release)
+```vibe-cli
+├── .audio auto-created
+│   ├── configs auto-created
+│   │   └── default.cfg ([documentation](https://ffmpeg.org/ffmpeg-filters.html))
+│   ├── output auto-created
+│   │   └── 20250825_063050.mp3
+│   └── input auto-created ["mp3", "wav", "flac", "aac", "ogg"]
+│       └── song.wav
+├── .video auto-created ["mp3", "wav", "flac", "aac", "ogg"] | ["jpg", "png"]
+│   ├── configs auto-created
+│   │   └── default.cfg ([documentation](https://ffmpeg.org/ffmpeg-filters.html))
+│   ├── output auto-created
+│   │   └── 20250825_063050.mp4
+│   └── input auto-created
+│       └── video.mp4
+├── bin auto-created
+│   └── ffmpeg.exe ([documentation](https://www.gyan.dev/ffmpeg/builds/))
+├── logs auto-created
+│   └── error_25-08-2025_06-48-32.json
+├── audio.exe
+└── video.exe```
