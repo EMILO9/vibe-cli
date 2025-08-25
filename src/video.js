@@ -60,6 +60,7 @@ const path = require("path");
         .loop()
         .input(path.join(CONFIG.PATHS.VIDEO_INPUT, SELECTED_FILE))
         .videoFilters(__CONFIG__)
+        .outputOptions(["-shortest"])
         .on("error", reject)
         .on("end", resolve)
         .save(path.join(CONFIG.PATHS.VIDEO_OUTPUT, GENERATE_OUTPUT_NAME("mp4")));
