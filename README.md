@@ -1,4 +1,5 @@
-```vibe-cli
+```
+vibe-cli
 ├── .audio auto-created
 │   ├── configs auto-created
 │   │   └── default.cfg ([documentation](https://ffmpeg.org/ffmpeg-filters.html))
@@ -18,4 +19,5 @@
 ├── logs auto-created
 │   └── error_25-08-2025_06-48-32.json
 ├── audio.exe
-└── video.exe```
+└── video.exe
+```
