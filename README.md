@@ -9,7 +9,7 @@ vibe-cli
 │       └── song.wav
 ├── .video auto-created ["mp3", "wav", "flac", "aac", "ogg"] | ["jpg", "png"]
 │   ├── configs auto-created
-│   │   └── default.cfg ([documentation](https://ffmpeg.org/ffmpeg-filters.html))
+│   │   └── default.cfg ([GitHub Pages](https://pages.github.com/))
 │   ├── output auto-created
 │   │   └── 20250825_063050.mp4
 │   └── input auto-created
